@@ -6,7 +6,6 @@ G3=tf([1],[15 1])
 
 subplot(2,2,1);
 step(G1)
-axis([0 4 -0.2 0.6])
 title("G1 System")
 legend('T=5')
 
